@@ -14,3 +14,29 @@
 #main-header .port-item:hover {
   opacity: 0.8;
   cursor: pointer; }
+
+.skills{
+  background-color: #A1B9BD;
+}
+
+/*#main-header .port-item:nth-of-type(1){
+  background-color: #A1B9BD;
+}
+*/
+.education{
+  background-color: #BAB6C5;
+}
+
+.work{
+  background-color: #B1AD7E;
+}
+
+.contact{
+  background-color: #6D5B97;
+}
+
+*/
+
+#home .card{
+  background-color: #A1B9BD;
+}
